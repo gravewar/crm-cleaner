@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zoho-crm-cleaner"
+version = "0.1.0"
+description = "Normalize, validate and deduplicate Zoho CRM exports, with a reviewable merge plan."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Danielle Burns" }]
+dependencies = ["pandas>=2.2", "rapidfuzz>=3.9", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.40"]
+dev = ["pytest>=8"]
+
+[project.scripts]
+zcleaner = "zcleaner.cli:main"
+
+[tool.setuptools]
+packages = ["zcleaner"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

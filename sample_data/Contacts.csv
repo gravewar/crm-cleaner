@@ -1,0 +1,206 @@
+Record Id,First Name,Last Name,Email,Phone,Mobile,Account Name,Mailing City,Mailing State,Mailing Zip,Mailing Country,Created Time
+zcrm_6420931000003554001,James,Johnon,jjohnson@bayberrysoftware.example,2125550164,,Bayberry Software CORP,New York,N.Y.,10015,United States,2022-05-19 18:20:53
+zcrm_6420931000000369001,Liam,haddad,liam.haddad@quarryhealth.example,431-555-0111,+14315550114,Quarry Health Corp.,Winnipeg,MB ,R8A 8T6,canada,2025-08-01 11:54:42
+zcrm_6420931000004252001,Owen,Singh,owens@junipermaterials.example,3125550164,,"Juniper Materials, Corporation",Chicago,IL,60690,United States,2026-11-05 13:10:12
+zcrm_6420931000000721001, Noah  , Novak  ,noahn@thistlehealth.example,1-709-555-0109,,"Thistle Health, Ltd.",St. John's,NL,A9G 1G4,Canada,2025-03-06 11:14:02
+zcrm_6420931000000676001,Rebecca, McNeil  ,rebecca.mcneil@mapleridgecapital.example,1-617-555-0119,,Maple Ridge Capital Inc,Boston,MA,02116,United States of America,2026-09-03 10:12:32
+zcrm_6420931000001061001,Aisha,Henderson,aisha.henderson@pinecrestlabs.example,(737)555-0147,,Pinecrest Labs Corp,Austin,texas,78752,United States,2024-01-13 14:21:03
+zcrm_6420931000002118001, Claire  , Reid  ,claire.reid@northwindcapital.example,(204)555-0197,1-204-555-0167,Northwind Capital,Winnipeg,MB,R8P-1Y1,CAN,2026-06-13 12:05:07
+zcrm_6420931000001021001,Nicholas,Nguyen,nicholas.nguyen@fathomanalytics.example,+17095550159,,Fathom Analytics,st. john's,NL ,A5M1C9,Canada,2026-11-02 09:58:34
+zcrm_6420931000002597001,Ava,BROWN, ava.brown@fathomresearch.example ,(437)555-0173,647.555.0150,"Fathom Research, Corp.",Toronto,ON,M9W 2P0,CAN,2023-07-14 18:53:10
+zcrm_6420931000002695001,Claire,Martin, claire.martin@fathomresearch.example ,(437)555-0117,,Fathom Research Corp.,Toronto,ON,M2V 8H8,canada,2026-12-12 11:47:42
+zcrm_6420931000002552001,DECLAN,Ferreira,declanf@tidewaterrobotics.example,8025550156,(802)555-0138,"Tidewater Robotics, Inc.",Burlington,VT,05477,United States,2024-11-15 11:38:31
+zcrm_6420931000002995001,Chloe,Thompson,chloe.thompson@tidewaterbiotech.example,(514) 555-0130,,Tidewater Biotech,Montréal,Quebec,H3V 9C8,CAN,2023-12-06 16:33:46
+zcrm_6420931000002513001,Nadia,Doucette,nadia.doucette@@mapleridgesystems.example,1-206-555-0158,1-564-555-0100,Maple Ridge Systems llc,seattle,WA,98142,United States,2022-08-28 14:46:53
+zcrm_6420931000000681001,Arjun,Murphy,Arjunm@fathomresearch.example,647.555.0164,1-437-555-0105,Fathom Research Corp.,Toronto,Ont.,m7a0v6,Canada,2022-03-06 08:48:39
+zcrm_6420931000004392001,mateo, Ferreira  ,mateof@harbourviewcapital.example,1-514-555-173,,HARBOURVIEW CAPITAL,montréal,qc,h6r7r6,CAN,2023-07-02 16:24:48
+zcrm_6420931000001696001,Jonathan,Bennett,JONATHAN.BENNETT@FATHOMCONSULTING.EXAMPLE,+16175550198,,Fathom Consulting Incorporated,Boston,MA,2163,United States,2023-05-15 15:35:27
+zcrm_6420931000003611001,Liam,Kim,liamk@foxglovelabs.example,+1 431 555 0117,,Foxglove Labs Inc.,Winnipeg,MB,r5a5m4,Canada,2025-07-21 15:47:53
+zcrm_6420931000003864001,NADIA,Ivanova,nivanova@brightwaterhealth.example,1-857-555-0185,857.555.0121,Brightwater  Health ,Boston,MA ,2137,United States,2026-08-20 10:04:22
+zcrm_6420931000003924001,Leah,DOUCETTE,ldoucette@foxgloveanalytics.example,(709) 555-0106,1-709-555-0173,Foxglove Analytics,St. John's,Nfld.,A7C 2Z6,Canada,2026-05-02 18:17:41
+zcrm_6420931000000762001,declan,Patel,declan.patel@cobaltlabs.example,437.555.0194,416-555-0171,Cobalt Labs Corp.,Toronto,ON ,M9X 8N1,Canada,2025-09-13 08:49:10
+zcrm_6420931000003057001,david,leblanc,david.leblanc@cobaltlabs.example,+1 416 555 0158,,Cobalt Labs Corp., Toronto  ,ON,m4h1a2,Canada,2024-05-06 11:22:26
+zcrm_6420931000004032001,Matthew,schmidt, matthew.schmidt@sablelogistics.example ,+15125550100,+15125550114,Sable Logistics,Austin,Tex.,78719,United States of America,2025-01-15 12:02:07
+zcrm_6420931000003653001,Nadia,Garcia, nadia.garcia@bluefinresearch.example ,(416) 555-0156,6475550194 x388,Bluefin Research Inc.,Toronto,ON,M8P 0W2,Canada,2022-12-23 09:28:56
+zcrm_6420931000004203001,chloe,Gagnon,cgagnon@larkspursystems.example,+1 737 555 0127,,Larkspur Systems Inc.,Austin,texas,78791,United States,2026-04-24 11:23:42
+zcrm_6420931000003045001,james,Ahmed,james.ahmed@cobaltlabs.example,(416)555-0119,,Cobalt Labs,Toronto,ontario,M9C 4S3,Canada,2023-01-07 08:48:43
+zcrm_6420931000003493001,julia,Schmidt,julia.schmidt@lighthouselabs.example,9025550122,,Lighthouse Labs,Sydney,NS,B9K 8B6,canada,2025-11-25 15:07:01
+zcrm_6420931000003110001,Andrew,Haddad, andrew.haddad@fathomenergy.example ,9025550164,,Fathom Energy,Halifax,N.S.,B2K 8B6,Canada,2024-04-03 09:01:27
+zcrm_6420931000003475001,Nathan, Taylor  ,nathan.taylor@kestrelrobotics.example,+1 737 555 0184,(512) 555-0112,Kestrel Robotics L.L.C.,Austin,TX,78750,USA,2023-06-25 08:08:13
+zcrm_6420931000000553001,Aisha,Roy,Aishar@foxglovelabs.example,(204)555-0105,+12045550137,Foxglove Labs,Winnipeg,Man.,R5S-2K8,Canada,2023-12-24 18:24:53
+zcrm_6420931000000484001,Gabriel,Lindqvist,glindqvist@tidewaterrobotics.example,(802) 555-0163,,Tidewater  Robotics Incorporated ,Burlington,vt,05464,USA,2024-06-22 16:31:49
+zcrm_6420931000003230001,Andrew,Patel,,,,Cobalt Biotech LTD.,Charlottetown,PEI,C9E8G6,Canada,2023-06-14 10:22:15
+zcrm_6420931000000772001,MEI,BOUCHARD,meib@pinecrestbiotech.example,(438) 555-0192,+1 438 555 0176,Pinecrest  Biotech ,Montréal,Quebec,h5e9w3,CAN,2024-01-15 15:54:31
+zcrm_6420931000001783001, David  ,Fraser,david.fraser@mapleridgesystems.example,+1 564 555 0136,,Maple Ridge Systems LLC,Seattle,Wash.,98155,United States,2026-11-20 18:14:58
+zcrm_6420931000000273001,Noah,Ahmed,noah.ahmed@fathomconsulting.example,(617)555-0197,617.555.0133,Fathom Consulting Inc.,BOSTON,MA,02120,United States,2023-10-22 10:48:32
+zcrm_6420931000004124001,Ava,Boudreau,aboudreau@cobaltcapital.example,+18025550103,,Cobalt Capital,BURLINGTON,VT ,5485,USA,2022-09-27 13:48:29
+zcrm_6420931000000436001,sarah,Reid,sarah.reid@larkspurconsulting.example,512-555-0146,,Larkspur Consulting Inc., Austin  ,Texas,78759,United States,2023-12-08 12:13:14
+zcrm_6420931000000544001,JENNIFER,Ferreira,jenniferf@fathomenergy.example,+17825550105,,Fathom Energy, Halifax  ,NS,B3C-6E1,Canada,2025-05-05 12:00:00
+zcrm_6420931000003345001,Sarah,nguyen,SARAH.NGUYEN@SILVERLINEMEDIA.EXAMPLE,514-555-0116,(438) 555-0147,silverline media, Montréal  ,PQ,H9Y4C0,Canada,2023-12-27 12:31:13
+zcrm_6420931000000642001,LUCAS,Murphy,lucasm@lighthouselabs.example,(902)555-0162,,Lighthouse Labs,Sydney,NS,B0P3T7,Canada,2026-12-02 16:25:16
+zcrm_6420931000001832001,Gabriel,Kim, gkim@mapleridgecapital.example ,(857)555-0119,,Maple Ridge Capital Inc.,Boston,Massachusetts,2141,United States,2023-01-16 12:10:45
+zcrm_6420931000003662001,Katherine,Johnson,Kjohnson@granitesoftware.example,604-555-0122,6045550107,"Granite Software, Incorporated",Vancouver,BC,V0T 0P3,Canada,2022-07-04 16:20:12
+zcrm_6420931000002729001,Hannah,fitzgerald,hannah.fitzgerald@lighthouseconsulting.example,647.555.0142,6475550179,Lighthouse Consulting LTD.,Toronto,on,m5a7g3,Canada,2024-11-08 16:54:49
+zcrm_6420931000003700001,William,ramirez,William.ramirez@driftwoodlabs.example,+1 782 555 0144,(782)555-0195,Driftwood Labs Ltd.,Charlottetown,PEI,C4A 6B2,canada,2023-08-27 15:38:26
+zcrm_6420931000004036001,James,Bennett,jamesb@fathomresearch.example,1-647-555-0126,,Fathom Research Corp,toronto,ontario,M3T4L7,Canada,2026-02-12 08:34:47
+zcrm_6420931000003219001,nicholas, Fitzgerald  ,nicholasf@wolfhoundlogistics.example,2045550119,204.555.0169,Wolfhound Logistics,Winnipeg,Manitoba,R0N 0R4,Canada,2025-09-13 11:16:11
+zcrm_6420931000003296001,Leah,Garia,Leah.garcia@larkspursystems.example,512.555.0157,+17375550115,"Larkspur Systems, Inc.",Austin,Tex.,78720,United States of America,2023-02-09 12:45:05
+zcrm_6420931000001459001,isabelle,Haddad,isabelle.haddad@harbourviewcapital.example,(438) 555-0113,+1 438 555 0177,harbourview capital ltd., Montréal  ,QC ,h2t5t0,Canada,2026-10-23 16:54:34
+zcrm_6420931000004178001,Ethan,Haddad, ethan.haddad@foxgloveanalytics.example ,+1 709 555 0191 ext. 587,,Foxglove Analytics,St. John's,Nfld.,A1E-3A5,Canada,2024-03-24 10:09:38
+zcrm_6420931000003459001,Aisha,Chen,aishac@ironbarkmedia.example,207-555-0158,,Ironbark Media LLC,PORTLAND,me,04132,USA,2023-12-11 17:37:22
+zcrm_6420931000004333001,Jennifer,Okafor,jennifero at tidewaterlogistics.example,(212) 555-0120,,Tidewater Logistics Corp.,New York,new york,10000,United States of America,2024-10-11 18:04:47
+zcrm_6420931000001745001,Siobhan,Morrison,siobhan.morrison@sablelogistics.example,737-555-0124,,Sable Logistics,Austin,tx,78765,USA,2024-02-27 11:19:13
+zcrm_6420931000003559001,Fatima,Boudreau,,,,Maple Ridge Systems LLC,Seattle,wa,98104,United States,2026-08-22 16:33:28
+zcrm_6420931000003014001,INGRID,Chen,ichen@sablesystems.example,737-555-0146,,Sable Systems Corp., Austin  ,TX ,78797,United States,2022-10-16 08:23:54
+zcrm_6420931000003402001,YUKI,Dubois,yuki.dubois@silverlinelabs.example,1-782-555-0142,(782) 555-0161,"Silverline Labs, Ltd.",Charlottetown,PE,C5Y8N6,Canada,2022-05-01 15:02:13
+zcrm_6420931000003877001, Nadia  ,Ivanova,,,+18575550121,Brightwater Health,Boston,Massachusetts,2137,United States,2022-12-07 12:11:16
+zcrm_6420931000004064001,Mei,Park,mei.park@driftwoodlabs.example,7825550178,1-902-555-0161,driftwood labs ltd.,Charlottetown,PEI,C1S 7B1,Canada,2022-05-18 15:15:24
+zcrm_6420931000001403001,nadia,abebe,nadiaa@driftwoodhealth.example,4385550151,,Driftwood Health,MONTRÉAL,QC ,h2b5x5,CAN,2024-04-01 09:34:54
+zcrm_6420931000001416001,Nadia,Abebe,nadia.abebe@mail.example,(438) 555-0151,,Driftwood Health,Montréal,PQ,H2B5X5,Canada,2024-06-10 15:55:35
+zcrm_6420931000002274001,claire,Garcia,cgarcia@larkspurconsulting.example,(512)555-0146,(737) 555-0130,"Larkspur  Consulting, Inc. ",Austin,texas,78738,U.S.,2023-07-06 08:23:00
+zcrm_6420931000004306001,CHLOE,Bennett,chloe.bennett@harbourviewhealth.example,1-802-555-0187,1-802-555-0194,Harbourview  Health ,Burlington,VT,05448,US,2023-11-23 12:16:38
+zcrm_6420931000001474001,Christopher,Campbell,christopher.campbell@bayberrybiotech.example,(782)555-0166,782.555.0190,"Bayberry Biotech, Inc", Sydney  ,NS,B3Z-4V3,CAN,2024-02-15 09:33:08
+zcrm_6420931000004103001,Ava,BOUDREAU,aboudreau@cobaltcapital.example,8025550103,,cobalt capital,Burlington,vt,05485,U.S.,2024-04-14 17:17:20
+zcrm_6420931000000671001,Mateo,Kim,mkim@larkspurrobotics.example,403555175,+1 403 555 0142,Larkspur Robotics,calgary,AB,T9A4G2,Canada,2024-04-26 17:17:03
+zcrm_6420931000002124001,CLAIRE,Reid,,,204.555.0167 ext. 195,Northwind Capital,winnipeg,MB,R8P-1Y1,Canada,2024-07-27 09:03:12
+zcrm_6420931000003583001, Fatima  ,Boudraeu,,,564-555-0118,Maple Ridge Systems LLC,Seattle,Wash.,98104,US,2025-10-08 15:50:26
+zcrm_6420931000004446001,Noah, Ahmed  ,,,,Bayberry Biotech Inc.,SYDNEY,NS,B2M 5A8,CAN,2022-02-18 12:08:55
+zcrm_6420931000001945001,Jennifer,Fraser,jenniferf@junipermaterials.example,(872)555-0178,,Juniper Materials CORP,Chicago,il,60695,United States of America,2023-10-07 12:44:47
+zcrm_6420931000001599001,Sophie,Okafor,Sophieo@fathomresearch.example,1-416-555-0115,,Fathom Research Corp.,Toronto,on,M2H5K5,canada,2025-10-01 13:24:36
+zcrm_6420931000001246001,joshua,Wilson,joshua.wilson@pinecrestlogistics.example,587.555.0124,(403) 555-0119,Pinecrest  Logistics ,Calgary,alberta,T4E-8X8,canada,2024-04-25 09:20:14
+zcrm_6420931000002214001,Nadia,Brown,nadia.brown@silverlinemedia.example,+1 438 555 0152,(438) 555-0159,Silverline Media Inc.,Montréal,QC,H8R 3K7,canada,2022-06-14 14:17:07
+zcrm_6420931000000270001,Mateo,ferreira,mateof@brightwaterhealth.example,857-555-0157,,Brightwater  Health ,Boston,MA,02175,United States,2026-11-01 17:37:25
+zcrm_6420931000000806001,Samuel,Novak,samueln@halcyonenergy.example,431-555-0103,+1 431 555 0143,Halcyon Energy LTD.,Winnipeg,Man.,R0H 2Y6,CA,2025-08-26 10:56:39
+zcrm_6420931000002451001,James,Wilson,james.wilson@copperleafcapital.example,(512) 555-0111,+17375550149,Copperleaf Capital Inc.,Austin,TX,78737,United States,2024-10-15 18:09:16
+zcrm_6420931000002369001,Michael,Doucette,michael.doucette@tidewaterlogistics.example,(212)555-0145,,Tidewater  Logistics ,New York,NY,10055,United States,2022-03-19 16:53:50
+zcrm_6420931000000392001,David, Gagnon  ,david.gagnon@pinecrestlabs.example,7375550180,,Pinecrest Labs Corp.,austin,TX,78726,US,2022-09-09 16:52:50
+zcrm_6420931000001268001, Aisha  ,Ferreira, aishaf@lighthouseconsulting.example ,647.555.0129,,Lighthouse Consulting,Toronto,Ontario,M7J 5Y7,CAN,2025-05-01 14:47:55
+zcrm_6420931000002481001,Sophie, Kowalski  ,,,,"Tidewater Energy, Incorporated",St. John's,NL,a7c5l3,CAN,2022-11-19 08:06:13
+zcrm_6420931000003183001,Emily,wong,emilyw@pinecrestbiotech.example,438-555-0141,+1 438 555 0101,Pinecrest Biotech,Montréal,Quebec,H3M9M9,Canada,2022-07-03 15:40:04
+zcrm_6420931000004263001,Daniel,CLARKE,danielc@fathomanalytics.example,(709)555-0186,,Fathom  Analytics Inc. , St. John's  ,Nfld.,A6A8E0,Canada,2024-12-12 13:28:19
+zcrm_6420931000002263001,NICHOLAS, Thompson  ,,,,Northwind Capital,Winnipeg,mb,R0P 6W5,Canada,2026-12-11 17:36:21
+zcrm_6420931000001493001,Christopher,Campbell,,,(782)555-0190,Bayberry  Biotech INC ,sydney,NS ,B3Z 4V3,canada,2024-03-01 18:31:43
+zcrm_6420931000000417001,Andrew,Reid,andrew.reid@granitesoftware.example,(778)555-0189,,Granite Software Inc.,Vancouver,British Columbia,V9K 2M8,Canada,2024-07-12 16:34:00
+zcrm_6420931000000940001,Olivia,Martin,olivia.martin@ironbarkmedia.example,(207)555-0158,,"Ironbark Media, llc",Portland,ME,04122,USA,2025-09-19 13:02:02
+zcrm_6420931000003943001, Rebecca  ,Ferreira,rebecca.ferreira@foxgloveanalytics.example,+1 709 555 0184,7095550148,Foxglove Analytics,St. John's,NL,A8L-7G3,Canada,2026-06-12 17:24:42
+zcrm_6420931000003786001,ROBERT,Henderson,rhenderson@quarryhealth.example,4315550180 #268,+14315550187,Quarry Health,Winnipeg,MB ,r0v4l6,canada,2023-09-26 15:34:31
+zcrm_6420931000002428001,william,Novak,wnovak@pinecrestmaterials.example,+1 902 555 0198,,Pinecrest Materials Limited,Charlottetown,Prince Edward Island,C1C4G6,CA,2025-02-11 10:45:30
+zcrm_6420931000001774001,Lucas,Fitzgerald,lucas.fitzgerald@copperleafrobotics.example,+14165550111,,Copperleaf Robotics,Toronto,on,M3J 9P0,CAN,2024-12-14 09:52:10
+zcrm_6420931000000460001,MAYA,Morales,maya.morales@tidewaterenergy.example,1-709-555-0119,,tidewater energy inc,St. John's,Newfoundland,A5N 8X6,canada,2024-04-18 14:54:24
+zcrm_6420931000002628001,ELIZABETH,tremblay,,,,Lighthouse Consulting Ltd.,Toronto,on,m5m5t3,Canada,2023-07-16 12:44:38
+zcrm_6420931000003362001,Priya, Taylor  ,ptaylor@northwindcapital.example,1-204-555-0134,1-204-555-0104,Northwind Capital,Winnipeg,MB,r4v6x7,Canada,2023-11-05 13:31:01
+zcrm_6420931000000627001,MICHAEL,ferreira,michaelf@copperleafrobotics.example,647.555.0178,6475550189,Copperleaf Robotics,Toronto,ON,M6E 2B0,CAN,2025-03-16 17:52:58
+zcrm_6420931000001332001,Ethan,LeBlanc,ethanl@tidewaterrobotics.example,8025550128,1-802-555-0191,Tidewater Robotics Inc,Burlington,vt,5418,United States,2024-06-09 16:43:27
+zcrm_6420931000000509001,Nicholas,Kim,nicholas.kim@pinecrestbiotech.example,438.555.0198,,Pinecrest Biotech,Montréal,QC,h8t0g6,Canada,2023-06-11 18:18:45
+zcrm_6420931000001709001,INGRID,DOUCETTE,ingrid.doucette@driftwoodlogistics.example,+1 872 555 0161,872.555.0138,DRIFTWOOD LOGISTICS L.L.C.,Chicago,IL,60609,USA,2022-07-12 18:42:56
+zcrm_6420931000002905001,Michael,campbell,mcampbell@sablelogistics.example,737.555.0158,+1 737 555 0125,Sable Logistics,Austin,TX ,78783,United States,2023-02-10 13:04:39
+zcrm_6420931000000275001,Emily,Nguyen,emily.nguyen@sablehealth.example,782-555-0156,(782)555-0189,"sable health, corporation",Charlottetown,PE,C4W 8V7,CA,2024-03-24 18:21:59
+zcrm_6420931000002840001,Rohan,Haddad,RHADDAD@COBALTLABS.EXAMPLE,(416)555-0199,,"Cobalt Labs, CORP",Toronto,ON,M9P9S2,canada,2024-12-25 17:33:38
+zcrm_6420931000003277001,aisha,Kowalski,aisha.kowalski@brightwaterhealth.example,1-617-555-0134,617-555-0121,Brightwater Health,Boston,ma,2159,US,2025-10-02 14:19:44
+zcrm_6420931000001637001,rebecca,Patel,Rebeccap@fathomresearch.example,(437)555-0174,1-437-555-0179,Fathom Research Corp.,Toronto,ontario,m9b0c0,Canada,2024-10-17 15:42:48
+zcrm_6420931000003313001,katherine,Nguyen,knguyen@larkspurenergy.example,8025550112,,LARKSPUR ENERGY, Burlington  ,VT,5415,U.S.,2025-04-10 11:25:11
+zcrm_6420931000000850001,Liam,IVANOVA,Liam.ivanova@driftwoodhealth.example,514-555-0151,438-555-0121,Driftwood Health,Montréal,QC ,h5c6e3,Canada,2025-02-11 11:52:44
+zcrm_6420931000003441001,CHLOE,Lindqvist,clindqvist@granitesoftware.example,(604) 555-0141,604.555.0175,"Granite Software, INC",VANCOUVER,B.C.,V1W 5C5,Canada,2025-10-23 11:07:04
+zcrm_6420931000001907001, Daniel  ,hughes,Dhughes@larkspurenergy.example,802-555-0144,,larkspur energy,Burlington,vt,5437,U.S.,2022-03-10 11:30:22
+zcrm_6420931000003665001,Andrew,Murphy,andrew.murphy@thistleenergy.example,+14315550181,,Thistle Energy,WINNIPEG,MB ,r3p7z7,Canada,2024-03-07 18:56:05
+zcrm_6420931000000827001,Matthew, Clarke  ,Matthewc@fathomresearch.example,1-647-555-0126,,"fathom research, corp",Toronto,Ontario,M9V 8M0,Canada,2026-01-26 15:57:32
+zcrm_6420931000003098001,Christopher,smith,christopher.smith@driftwoodlabs.example,902-555-0170,,Driftwood Labs Ltd.,Charlottetown,PE,C3N 3S5,CAN,2023-09-10 12:56:42
+zcrm_6420931000002057001,owen,clarke,owen.clarke@mail.example,(512)555-0120,,Kestrel Robotics L.L.C.,Austin,tx,78754,United States of America,2025-08-23 15:46:26
+zcrm_6420931000002821001,Siobhan,Clarke,sclarke@cobaltbiotech.example,7825550169,+17825550113,cobalt biotech,Charlottetown,PEI,C4B 7L5,Canada,2024-01-06 08:00:03
+zcrm_6420931000001122001,Marie-Claude,Abebe,Marieclaudea@northwindcapital.example,+1 204 555 0142,204.555.0144,Northwind Capital,Winnipeg,MB,R6G 9C4,Canada,2025-02-21 15:47:12
+zcrm_6420931000003285001,Leah,Garcia,LEAH.GARCIA@LARKSPURSYSTEMS.EXAMPLE,(512) 555-0157,1-737-555-0115,Larkspur  Systems Inc. ,Austin,texas,78720,United States,2022-05-26 08:07:03
+zcrm_6420931000004149001,Anthony,Boudreau,anthony.boudreau@tidewaterrobotics.example,802-555-0110,,tidewater robotics inc.,Burlington,VT,5411,United States,2025-09-16 14:04:50
+zcrm_6420931000002238001,Priya,martin,priya.martin@tidewaterlogistics.example,(212) 555-0128,,Tidewater Logistics Corp.,New York,NY,10004,United States,2025-02-08 11:10:21
+zcrm_6420931000001157001,Mari-eClaude,Abebe,,(204)555-0142,(204) 555-0144 x355,Northwind  Capital ,Winnipeg,Man.,R6G-9C4,canada,2026-03-24 17:14:59
+zcrm_6420931000002466001,Mei,Rossi,mrossi@wolfhoundlogistics.example,431.555.0109,,Wolfhound Logistics Corporation,Winnipeg,MB ,R9W 2R2,Canada,2022-12-14 16:26:41
+zcrm_6420931000001867001,Joshua,brown,joshuab@tidewaterenergy.example,(709) 555-0188,,Tidewater Energy INC,St. John's,NL ,A7P8L4,CAN,2026-06-23 18:44:43
+zcrm_6420931000001178001,ANTHONY,Rossi,anthony.rossi@halcyonenergy.example,1-204-555-0185,,Halcyon Energy Limited,WINNIPEG,MB,R6W 5A5,Canada,2024-09-06 15:15:59
+zcrm_6420931000003911001,Olivia,Côté,olivia.cote@granitesoftware.example,+1 604 555 0187,,Granite Software Inc.,VANCOUVER,British Columbia,V3P 3M6,Canada,2026-03-05 10:30:55
+zcrm_6420931000000971001,Arjun,Doucette,arjund@mapleridgesystems.example,+1 564 555 0187,,Maple Ridge Systems L.L.C.,Seattle,WA,98180,United States of America,2026-03-19 08:42:18
+zcrm_6420931000003981001,Mei,petrov, mei.petrov@bayberrysoftware.example ,646.555.0153,,Bayberry Software CORP,New York,ny,10036,US,2025-11-24 17:01:14
+zcrm_6420931000003553001,James,Johnson,jjohnson@bayberrysoftware.example,2125550164,,Bayberry Software CORP,New York,NY,10015,U.S.,2024-09-15 14:36:46
+zcrm_6420931000003733001, Marie-Claude  ,Hughes,marieclaude.hughes@@wolfhoundlogistics.example,1-204-555-0182,1-431-555-0165,WOLFHOUND LOGISTICS CORP.,Winnipeg,MB,R0V2H9,CAN,2022-05-15 14:14:36
+zcrm_6420931000002815001,Kattherine,Camppbell,katherinec@fathomconsulting.example,617-555-0186,,Fathom Consulting Inc.,Boston,MA,2169,United States,2025-01-09 11:59:09
+zcrm_6420931000004424001,Nicholas,Murphy,,,,Cobalt Capital,Burlington,VT,5482,United States,2022-12-13 12:56:39
+zcrm_6420931000003437001,CHRISTOPHER,Park,christopher.park@cobaltcapital.example,802-555-0175,(802)555-0104,Cobalt Capital,Burlington,Vermont,05407,United States,2025-02-25 10:39:58
+zcrm_6420931000002774001,Siobhan,rossi,siobhan.rossi@foxgloveenergy.example,+1 587 555 0152,,Foxglove Energy INC,Calgary,Alta.,t7v2c9,Canada,2025-03-05 13:47:27
+zcrm_6420931000003759001,Tariq,Rossi,tariq.rossi@pinecrestanalytics.example,+18575550127,,PINECREST ANALYTICS,Boston,ma,2174,United States,2022-12-19 14:12:53
+zcrm_6420931000002799001,KATHERINE,Campbell,katherinec@fathomconsulting.example,617.555.0186,,"FATHOM CONSULTING, INC.",Boston,ma,02169,United States,2025-08-10 12:31:05
+zcrm_6420931000001539001,Mateo,singh,Mateos@larkspurrobotics.example,(403)555-0146,,Larkspur Robotics Inc.,Calgary,AB,T7X 2Z1,Canada,2025-02-13 15:20:54
+zcrm_6420931000002116001,Lucas,Ahmed,lucas.ahmed@sablehealth.example,+1 902 555 0128,,Sable Health,Charlottetown,PE,C2T 9P6,CA,2023-08-17 08:07:42
+zcrm_6420931000001435001,Maya,Bouchard,maya.bouchard@pinecrestbiotech.example,4385550134 ext. 514,438-555-0155,Pinecrest Biotech,Montréal,qc,H7R 5H7,CAN,2022-06-17 17:01:54
+zcrm_6420931000001669001, Rebecca  ,Patel,rebeccap@fathomresearch.example,,(437)555-0179,Fathom Research Corp.,Toronto,ON,M9B 0C0,Canada,2025-03-08 10:47:43
+zcrm_6420931000003470001,Michael,Morrison,michael.morrison@ironbarkmedia.example,2075550143 ext 924,(207) 555-0120,Ironbark Media LLC,Portland,me,04170,United States of America,2023-04-19 15:32:22
+zcrm_6420931000003195001,Emliy,Wong,emilyw@pinecrestbiotech.example,(438) 555-0141,1-438-555-0101,Pinecrest Biotech,montréal,QC ,H3M 9M9,Canada,2023-10-01 16:01:33
+zcrm_6420931000002766001,Hannah,Fitzgeradl,,(647) 555-0142,(647)555-0179 x640,LIGHTHOUSE CONSULTING LTD.,Toronto,ON,M5A-7G3,Canada,2022-07-16 11:05:33
+zcrm_6420931000004133001,Jonathan,Roy,jroy@fathomresearch.example,6475550121,647.555.0141,Fathom Research Corp.,Toronto,ontario,m5l0w3,Canada,2022-04-19 15:29:15
+zcrm_6420931000000578001, Olivia  ,LeBlanc,olivia.leblanc@tidewaterrobotics.example,(802) 555-0189,8025550135,tidewater robotics inc., Burlington  ,VT,05472,United States,2022-01-19 15:44:38
+zcrm_6420931000002891001,Robert, Hughes  ,robert.hughes@@driftwoodhealth.example,(438) 555-0148,,Driftwood Health,Montréal,Québec,H6W 4P7,canada,2026-09-07 15:14:20
+zcrm_6420931000002319001,Sophie,Morales,sophie.morales@driftwoodlogistics.example,+1 312 555 0167,(312) 555-0185,Driftwood Logistics L.L.C.,Chicago,il,60697,U.S.,2025-04-13 09:34:24
+zcrm_6420931000000887001,Noah,park,,1-438-555-0139,,Tidewater Biotech CORP,Montréal,Que.,H5H 1W1,Canada,2025-07-18 11:42:11
+zcrm_6420931000002354001, Jennifer  ,Brown,jenniferb@pinecrestlogistics.example,587-555-0134,+1 403 555 0187,Pinecrest Logistics, Calgary  ,Alberta,T8Y0H5,Canada,2023-02-01 14:01:00
+zcrm_6420931000002177001, James  ,NOVAK,james.novak@lighthouselabs.example,+19025550183,,Lighthouse Labs,Sydney,ns,B2X 6W2,canada,2026-10-06 09:37:08
+zcrm_6420931000001860001,Nathan,novak,nathan.novak@larkspursystems.example,(737)555-0192,,Larkspur Systems Inc.,AUSTIN,TX,78776,USA,2024-01-24 09:35:38
+zcrm_6420931000003145001,Andy,haddad,andy.haddad@mail.example,902.555.0164,,Fathom Energy, Halifax  ,Nova Scotia,B2K 8B6,Canada,2025-05-22 08:17:05
+zcrm_6420931000000912001,Thomas,MacLeod,tmacleod@kestrelrobotics.example,+1 737 555 0144,,Kestrel Robotics,AUSTIN,TX ,78730,United States,2022-03-21 14:55:29
+zcrm_6420931000000851001,Noah,Park,npark@tidewaterbiotech.example,+1 438 555 0139,,Tidewater Biotech Corp.,Montréal,Québec,H5H 1W1,Canada,2024-02-19 08:39:32
+zcrm_6420931000002634001,Elizabeth,Tremblay,etremblay@lighthouseconsulting.example,+1 416 555 0114,,LIGHTHOUSE CONSULTING,Toronto,ON ,m5m5t3,CA,2026-10-16 12:44:47
+zcrm_6420931000002030001,Owen,Clarke,owen.clarke@kestrelrobotics.example,5125550120,,Kestrel Robotics LLC.,AUSTIN,tx,78754,United States,2022-06-17 17:12:52
+zcrm_6420931000004058001,Liam,Johnson,ljohnson@quarrybiotech.example,1-782-555-0153,,quarry biotech,Charlottetown,PE ,c1g0h1,canada,2023-11-13 12:25:02
+zcrm_6420931000003741001,Yuki,Chen,yukic@brightwaterhealth.example,(857) 555-0191,,BRIGHTWATER HEALTH,Boston,mass,02154,United States,2022-09-07 13:34:12
+zcrm_6420931000001993001,Nathan,ROY,Nathanr@harbourviewhealth.example,+1 802 555 0101,,Harbourview Health,burlington,VT,05472,USA,2026-06-04 08:48:41
+zcrm_6420931000004304001,Jennifer,Bouchard,jennifer.bouchard@thistleenergy.example,204-555-0195,,Thistle Energy,Winnipeg,MB,R3W 4B6,Canada,2025-04-09 17:37:24
+zcrm_6420931000002944001,Grace,Rossi,grace.rossi@cobaltlabs.example,416.555.0113,(647) 555-0117,Cobalt Labs,Toronto,on,M2G 1W9,CAN,2024-10-17 12:45:14
+zcrm_6420931000002577001,Sophie,Doucette,sophie.doucette@tidewaterenergy.example,709.555.0144,,TIDEWATER ENERGY,St. John's,Newfoundland and Labrador,a6c7z7,Canada,2023-08-22 15:09:38
+zcrm_6420931000004160001,Mei,Smith, meis@foxgloveenergy.example ,4035550177,,Foxglove Energy Inc.,Calgary,AB ,T8X 3T5,CAN,2024-06-10 15:21:50
+zcrm_6420931000002950001,Sarah,Ferreira, sferreira@halcyonenergy.example ,2045550196,(204) 555-0180,Halcyon Energy Limited,winnipeg,mb,R6Z-7J1,Canada,2025-07-06 08:51:23
+zcrm_6420931000003068001,Claire,Chen,claire.chen@sablehealth.example,+17825550121,9025550142,Sable Health,Charlottetown,PEI,c4w1l9,Canada,2023-08-28 13:07:50
+zcrm_6420931000001579001,Aisha,Wong,awong@larkspurenergy.example,(802) 555-0199 x141,,Larkspur Energy,burlington,vt,5498,United States,2025-06-12 14:22:03
+zcrm_6420931000000990001,Leah,MARTIN,Leahm@silverlineresearch.example,+1 857 555 0164,,Silverline Research Incorporated,Boston,MA,02135,US,2023-05-26 11:31:11
+zcrm_6420931000001875001,Josh,Brown,josh.brown@mail.example,,,"Tidewater Energy, Inc",St. John's,Newfoundland,a7p8l4,CAN,2025-03-16 14:01:07
+zcrm_6420931000003819001,Bob,Henderson,,431-555-0180,+14315550187,Quarry Health,WINNIPEG,MB,R0V-4L6,Canada,2022-07-16 10:40:51
+zcrm_6420931000002904001,matthew,okafor,matthew.okafor@thistleenergy.example,+12045550190,204.555.0172,Thistle Energy,winnipeg,MB ,r5b0e7,CAN,2022-03-08 09:17:09
+zcrm_6420931000002105001,CHRISTOPHER,SULLIVAN,christopher.sullivan@quarryhealth.example,(431)555-0138,,Quarry Health Corporation,Winnipeg,Manitoba,R4P3B1,Canada,2024-09-02 18:56:28
+zcrm_6420931000000590001,Nicholas,Murphy,nicholasm@harbourviewhealth.example,8025550120,,Harbourview Health,Burlington,Vt.,05495,United States,2026-05-11 14:41:20
+zcrm_6420931000000799001,Mei,Boucahrd,Meib@pinecrestbiotech.example,+1 438 555 0192,4385550176 ext 66,Pinecrest Biotech,Montréal,Québec,H5E9W3,Canada,2022-02-14 10:10:43
+zcrm_6420931000002240001,Rohan,Bennett,rbennett@foxgloveanalytics.example,709-555-0106 x617,,foxglove analytics,St. John's,Newfoundland and Labrador,A9N-9Z5,canada,2026-08-06 11:08:51
+zcrm_6420931000000570001,Rebecca,Roy, rebeccar@fathomenergy.example ,7825550175,(782)555-0188,Fathom Energy,halifax,Nova Scotia,B7M-3R7,canada,2024-06-06 18:46:02
+zcrm_6420931000003855001,Liam,rossi,Lrossi@bluefinsoftware.example,+1 207 555 0196,,bluefin software,Portland,me,4143,US,2026-10-09 15:29:13
+zcrm_6420931000003965001,Rbecca,Ferreira,rbecca.ferreira@mail.example,1-709-555-0184,(709)555-0148,Foxglove Analytics,St. John's,nl,A8L 7G3,Canada,2023-05-24 13:38:21
+zcrm_6420931000004290001,fatima,Martin,Fmartin@foxgloveanalytics.example,709.555.0134,,Foxglove Analytics, St. John's  ,Nfld.,A4L2B4,Canada,2022-06-14 14:20:35
+zcrm_6420931000002642001,MARIE-CLAUDE,Kim, mkim@halcyonenergy.example ,(204)555-0196,,"Halcyon Energy, Ltd",winnipeg,MB,R8H 8H5,Canada,2022-02-17 12:23:34
+zcrm_6420931000003997001,Daniel,Sato,daniel.sato@thistlehealth.example,+17095550199,7095550145,"THISTLE HEALTH, LIMITED",St. John's,NL,A4H-0X7,Canada,2024-07-22 15:02:16
+zcrm_6420931000003531001,Siobhan,Henderson,SIOBHAN.HENDERSON@@LARKSPURCONSULTING.EXAMPLE,+17375550173,,Larkspur  Consulting Inc. ,Austin,tx,78738,USA,2022-09-25 13:59:01
+zcrm_6420931000002915001,Joshua,Roy,joshuar@pinecrestbiotech.example,(438)555-0111,,Pinecrest Biotech, Montréal  ,QC,H1P2B6,Canada,2023-07-12 13:31:27
+zcrm_6420931000001320001,Tariq,MacLeod,Tariqm at tidewatermedia.example,+1 604 555 0128,,TIDEWATER MEDIA,Vancouver,BC,V0S 0R8,canada,2024-01-04 14:23:29
+zcrm_6420931000001519001,Priya,Ivanova, pivanova@fathomenergy.example ,(782)555-0138,,Fathom  Energy ,Halifax,NS,b5w3e3,Canada,2022-08-22 08:11:24
+zcrm_6420931000001859001,Samuel, Morrison  ,samuel.morrison@sablehealth.example,782-555-0164,,sable health corp,Charlottetown,PE,C9M 7A5,Canada,2022-02-15 18:30:29
+zcrm_6420931000003251001,Maya,MCNEIL,Mayam@pinecrestanalytics.example,(857) 555-0189,,Pinecrest Analytics,Boston,ma,2140,United States,2024-01-21 17:00:58
+zcrm_6420931000001971001,Olivia, Kim  ,okim@lighthouseconsulting.example,(437)555-0169,,Lighthouse Consulting Ltd.,toronto,ontario,M8T4J1,canada,2023-09-18 12:13:05
+zcrm_6420931000001098001,arjun,Kim,arjunk@larkspurenergy.example,(802)555-0108,802-555-0136,Larkspur Energy,Burlington,VT,05492,US,2024-11-10 14:03:40
+zcrm_6420931000004131001,Rohan,Kim,rohan.kim@pinecrestlabs.example,+15125550161,(737) 555-0119,PINECREST LABS CORPORATION,Austin,tx,78701,US,2026-04-06 17:40:30
+zcrm_6420931000002957001,tariq,Tremblay,tariqt@granitesoftware.example,1-778-555-0144 ext. 176,,"GRANITE SOFTWARE, INC.",Vancouver,British Columbia,V2K 4C3,canada,2022-04-09 09:36:36
+zcrm_6420931000000330001,elizabeth,Bouchard,Elizabethb@larkspurconsulting.example,(737) 555-0152,,Larkspur Consulting Inc.,AUSTIN,Tex.,78784,U.S.,2026-06-20 12:43:25
+zcrm_6420931000001367001,Noah,Chen,noah.chen@granitematerials.example,782.555.0123,,Granite Materials,HALIFAX,N.S.,B8P1W8,Canada,2026-12-02 18:20:22
+zcrm_6420931000002138001,Michael,Johnson,Michael.johnson@ironbarkmedia.example,(207) 555-0174,(207) 555-0144,"Ironbark Media, LLC",Portland,Maine,04169,United States,2026-01-27 18:28:43
+zcrm_6420931000001815001,Anthony,Fraser,anthony.fraser@fathomenergy.example,7825550197,,Fathom  Energy ,HALIFAX,NS,b2e6p5,Canada,2023-10-15 11:23:37
+zcrm_6420931000004223001,Amara,Lam,alam@bluefinresearch.example,437-555-0149,,Bluefin Research INC,Toronto,on,M4R 5M7,Canada,2025-10-09 15:40:11
+zcrm_6420931000002876001,Leah,Ivanova,leah.ivanova@lighthouseconsulting.example,647-555-0165,,Lighthouse Consulting Ltd,Toronto,ON,M2S 0L2,canada,2023-05-02 17:03:50
+zcrm_6420931000002459001,Jim,Wilson,james.wilson@copperleafcapital.example,,+17375550149,Copperleaf Capital Inc,Austin,Tex.,78737,U.S.,2026-05-24 14:48:56
+zcrm_6420931000000317001,Thomas,boudreau,thomas.boudreau@silverlineresearch.example,6175550174,,Silverline Research INC,Boston,MA,02111,USA,2025-04-28 09:18:38
+zcrm_6420931000000732001,Nathan,Haddad,Nathanh@quarrybiotech.example,902.555.0140,,Quarry Biotech,CHARLOTTETOWN,PE,C5G7C1,Canada,2025-01-06 15:37:57
+zcrm_6420931000001467001,Nadia,Ramirez,NADIA.RAMIREZ@NORTHWINDCAPITAL.EXAMPLE,(431) 555-0135,,northwind capital,Winnipeg,Man.,R1R 5W2,Canada,2023-12-10 08:47:52
+zcrm_6420931000001295001,Jonathan,CÔTÉ,jonathan.cote@pinecrestbiotech.example,514-555-0191 ext. 175,,Pinecrest Biotech,montréal,qc,H4C-2L7,Canada,2025-03-26 13:40:29
+zcrm_6420931000003464001,mateo,Tremblay, mateo.tremblay@harbourviewhealth.example ,802-555-0120,(802)555-0121,Harbourview  Health ,Burlington,vt,05463,United States,2023-12-13 14:59:04
+zcrm_6420931000004370001,Emily,Sato,emily.sato@fathomresearch.example,647.555.0126,,"FATHOM RESEARCH, CORPORATION",Toronto,ON,M1P 3J5,CA,2024-02-11 13:59:14
+zcrm_6420931000001216001,Anthoyn,Rossi,anthoyn.rossi@mail.example,(204)555-0185,,"Halcyon Energy, Limited", Winnipeg  ,MB,R6W 5A5,Canada,2026-03-23 15:39:05
+zcrm_6420931000003780001,Olivia,Chen,oliviac@fathomresearch.example,(647)555-0171,,Fathom Research CORP,Toronto,Ontario,M4E 7C5,CA,2024-08-10 16:32:15
+zcrm_6420931000002667001,NICHOLAS,Patel,npatel@larkspurenergy.example,+18025550171,802.555.0114,larkspur energy,Burlington,VT,5447,US,2023-11-20 14:45:29
+zcrm_6420931000000290001,James,LAM,James.lam@cobaltbiotech.example,+17825550177,902-555-0129,Cobalt Biotech Ltd.,Charlottetown,PE,C4Y 0H7,Canada,2026-09-27 08:57:49
+zcrm_6420931000002304001,Christopher,Fitzgerald,christopher.fitzgerald@foxgloveenergy.example,1-587-555-0132,,Foxglove  Energy INC ,Calgary,AB,T7T2P2,CA,2023-05-24 08:31:51
+zcrm_6420931000002475001,MEI,ROSSI,mei.rossi@mail.example,(431)555-0109,,Wolfhound  Logistics ,Winnipeg,MB,R9W 2R2,CAN,2025-08-21 17:06:55
+zcrm_6420931000001049001,Isabelle,MacLeod,imacleod@tidewaterrobotics.example,+1 802 555 0157,,Tidewater Robotics Inc,Burlington,VT,05441,United States,2026-06-22 10:20:35
+zcrm_6420931000003639001,Andrew,Petrov,andrewp@mapleridgesystems.example,206.555.0129 ext 450,+1 564 555 0199,maple ridge systems llc,Seattle,Washington,98134,United States,2024-05-20 09:59:14
+zcrm_6420931000002397001,MCHAEL, Doucette  ,mchael.doucette@mail.example,(212)555-0145,,TIDEWATER LOGISTICS CORPORATION,New York,ny,10055,United States of America,2025-07-17 17:47:27
+zcrm_6420931000002066001,Katherine,Morrison,katherine.morrison@cobaltlabs.example,416-555-0123,,Cobalt Labs Corp.,Toronto,ON,M5K 0L6,Canada,2022-02-12 17:18:02
+zcrm_6420931000004381001,Nathan, Murphy  ,nathan.murphy@lighthouseconsulting.example,6475550142,,"Lighthouse Consulting, Ltd",Toronto,on,m8a1p7,CAN,2023-07-02 15:28:25

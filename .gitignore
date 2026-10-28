@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+cleaned/
+# Never commit real CRM exports. Only the synthetic sample data belongs in git.
+*.xlsx
+real_data/
+exports/
